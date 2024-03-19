@@ -13,9 +13,8 @@ header:
   pages:
     - name: Home
       slug: /
-    - name: About
     - name: Research
-    - name: Personal
+    - name: Miscellaneous
 
 footer:
   show_powered_by: false
