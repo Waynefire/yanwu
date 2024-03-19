@@ -1,14 +1,18 @@
 ---
 layout: home
 profile_picture:
-  src: /assets/img/profile-pic.jpg
+  src: /assets/img/profile.jpg
   alt: website picture
 ---
 
 <p>
-  Welcome! This site serves as an example for the Bay Jekyll theme. Bay is a very simple and minimal theme, directly inspired by Dan Grover's <a href="http://dangrover.com">website</a>.
+  Welcome! I am Yan Wu, a senior master student of Economics at the School of Business, <a href="https://www.nju.edu.cn/en/">Nanjing University</a>, where I also got my Bachelor degree of Economics.
 </p>
 
 <p>
-  You can find the source code and the instructions on <a href="https://github.com/eliottvincent/bay">GitHub</a>.
+  p2
+</p>
+
+<p>
+  p3
 </p>
