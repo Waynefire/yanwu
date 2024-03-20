@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Post example"
+title:  "My Footprints in 2023"
 date:   2019-10-26 10:00:40
-blurb: "A look at an example post using Bay Jekyll theme."
+blurb: "Sharing My Footprints in 2023."
 og_image: /assets/img/content/map2023.png
 ---
 
