@@ -15,34 +15,44 @@ Since 2023, I have been intentionally keeping an record of my footprints with my
 <br />
 
 
-#### Table of Contents
+#### Contents
 1. [Trip To Nanchang](#trip-to-nanchang)
-2. [Trip to 2](#part-2)
-    * [Part 2 Sub-part 1](#part-2-sub-part-1)
-    * [Part 2 Sub-part 2](#part-2-sub-part-2)
-3. [Footnotes](#footnotes)
+2. [Trip To Bengbu](#trip-to-bengbu)
+3. [Trip To Nantong](#trip-to-nantong)
+4. [Trip To Changsha](#trip-to-changsha)
+5. [Trip To Shanghai](#trip-to-shanghai)
+6. [Trip To US](#trip-to-US)
+7. [Footnotes](#footnotes)
 
 #### Trip To Nanchang
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+to be filled.
 <br />
-
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
+to be filled.
 <br />
 <br />
 
-#### PART 2
-**Lorem ipsum dolor sit amet,** consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+#### Trip to Bengbu
+**to be filled**
 
 <br />
 
-##### PART 2 SUB PART 1
-*Duis aute irure dolor in reprehenderit* in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+#### Trip to Nantong
+*to be filled* 
 
 <br />
 
-##### PART 2 SUB PART 2
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+#### Trip to Changsha
+To be filled...
+
+<br />
+
+#### Trip to Shanghai
+To be filled...
+
+<br />
+
+#### Trip to US
+To be filled...
 
 <br />
 
