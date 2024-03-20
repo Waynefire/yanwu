@@ -10,7 +10,7 @@ items:
     description:
       IT is enabling social media to present various data forms including text, images and videos, all of which influence user’s experiences and content creator’s performances. I am interested in depicting and explaining these influences. With the boom of AIGC, in the future I am more interested in how AIGC has changed the way we produce and consume content in digital platforms.
       <p>
-      1. Fu, S., Wu, Y., Du, Q., Li, C., & Fan, W. (2024). <a href="https://www.sciencedirect.com/science/article/pii/S0167923623002427">The secret of voice: How acoustic characteristics affect video creators' performance on Bilibili.</a> Decision Support Systems, 179, 114167.
+      1. Fu, S., Wu, Y., Du, Q., Li, C., & Fan, W. (2024). The secret of voice: How acoustic characteristics affect video creators' performance on Bilibili. Decision Support Systems, 179, 114167.
       </p>
     
 
