@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My Footprints in 2023"
-date:   2024-03-21 03:00:00
+date:   2024-03-20 03:32:00
 blurb: "Sharing My Footprints in 2023."
 og_image: /assets/img/content/map2023.png
 ---
