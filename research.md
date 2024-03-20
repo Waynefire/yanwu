@@ -15,9 +15,12 @@ items:
       <dd>
       1. Fu, S., <strong>Wu, Y.</strong>, Du, Q., Li, C., & Fan, W. (2024). <a href="https://www.sciencedirect.com/science/article/pii/S0167923623002427">The secret of voice<strong>：</strong>How acoustic characteristics affect video creators' performance on Bilibili.</a> <i class='italic-text'>Decision Support Systems</i>, 179, 114167.
       </dd>
+      <dt><i class="italic-text">Working Paper</i></dt>
+      <dd>
+      1. <strong>Wu, Y.</strong>, Du, Q., Zhang, X., & Zhang, J. (2023). <a href='https://scholarspace.manoa.hawaii.edu/items/9e9c6cf5-44a6-4882-8880-619701dc0968'>The Effects of Quote Retweet on Subsequent Posting Behavior and Morality Expression on Social Media.</a>
+      </dd>
       </dl>
     
-
 ---
 <br />
 <br />
