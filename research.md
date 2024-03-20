@@ -17,7 +17,7 @@ items:
       </dd>
       <dt><i class="italic-text">Working Paper</i></dt>
       <dd>
-      1. <strong>Wu, Y.</strong>, Du, Q., Zhang, X., & Zhang, J. (2023). <a href='https://scholarspace.manoa.hawaii.edu/items/9e9c6cf5-44a6-4882-8880-619701dc0968'>The Effects of Quote Retweet on Subsequent Posting Behavior and Morality Expression on Social Media.</a>
+      1. <strong>Wu, Y.</strong>, Du, Q., Zhang, X., & Zhang, Z. (2023). <a href='https://scholarspace.manoa.hawaii.edu/items/9e9c6cf5-44a6-4882-8880-619701dc0968'>The Effects of Quote Retweet on Subsequent Posting Behavior and Morality Expression on Social Media.</a> In 56th Annual Hawaii International Conference on System Sciences, HICSS 2023 (pp. 3786-3795). IEEE Computer Society.
       </dd>
       </dl>
     
