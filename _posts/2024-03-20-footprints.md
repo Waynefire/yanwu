@@ -10,7 +10,7 @@ og_image: /assets/img/content/map2023.png
 <br />
 <br />
 
-Since 2023, I have been intentionally keeping an record of my footprints with my phone[^1]. The above picture is a summary of my footprints towards dfferent provinces throughout 2023. It reminds me of those specific moments during the trip, in the form of location data. Thanks to IT, I have these 'digital evidence' for my life.
+Since 2023, I have been intentionally keeping a record of my footprints with my phone[^1]. The above picture is a summary of my footprints throughout 2023. It reminds me of those specific moments during the trip, in the form of location data, a kind of 'digital evidence' for my life.
 
 <br />
 
