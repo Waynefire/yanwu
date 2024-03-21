@@ -21,7 +21,7 @@ Since 2023, I have been intentionally keeping a record of my footprints with my 
 3. [Trip To Nantong](#trip-to-nantong)
 4. [Trip To Changsha](#trip-to-changsha)
 5. [Trip To Shanghai](#trip-to-shanghai)
-6. [Trip To US](#trip-to-US)
+6. [Trip To US](#trip-to-us)
 7. [Footnotes](#footnotes)
 
 #### Trip To Nanchang
